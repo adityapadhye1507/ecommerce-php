@@ -17,7 +17,7 @@ CREATE TABLE `cart` (
 DROP TABLE IF EXISTS `cart_products`;
 CREATE TABLE `cart_products` (
   `cart_id` int(11) NOT NULL,
-  `prodcut_id` int(11) NOT NULL,
+  `product_id` int(11) NOT NULL,
   `quantity` int(11) DEFAULT NULL,
   PRIMARY KEY (`cart_id`,`prodcut_id`),
   KEY `products_fk_idx` (`prodcut_id`)
