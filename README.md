@@ -1,13 +1,13 @@
 # Demo URL
 https://ecommerce-php.herokuapp.com/login.php
 
-# Credentials to Login as a User
-##Username : user/user2
-##Password : user/user2
+## Credentials to Login as a User
+####Username : user/user2
+####Password : user/user2
 
-# Credentials to Login as a Admin
-##Username : admin
-##Password : admin
+## Credentials to Login as a Admin
+####Username : admin
+####Password : admin
 
 
 # Introduction
