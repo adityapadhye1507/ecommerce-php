@@ -1,5 +1,5 @@
 # Demo URL
-https://ecommerce-php.herokuapp.com/login.php
+https://ecommerce-php-example.000webhostapp.com/login.php
 
 ## Credentials to Login as a User
 ####Username : user/user2
